@@ -82,7 +82,7 @@ body {
     
     background-color: #00000068;
     color: rgb(14, 231, 234);
-    
+     margin: 2px 10px 2px -10px;
     max-height: 55px;
     overflow: hidden;
   }
