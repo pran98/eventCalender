@@ -4,7 +4,7 @@ body {
     justify-content: center;
     background-color: black;
   }
-  .gh>button{
+  .move-btn>button{
     width: 20px;
 }
   button {
